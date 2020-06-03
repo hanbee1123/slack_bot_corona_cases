@@ -7,3 +7,4 @@ It let's you know of the latest numbers.
 Simply invite the corona_bot to the channel and mention it by @corona
 
 The architecture looks as follows:
+![Screen Shot 2020-06-03 at 4 47 31 PM](https://user-images.githubusercontent.com/46665763/83610093-02575780-a5ba-11ea-892c-08203eee2411.png)
